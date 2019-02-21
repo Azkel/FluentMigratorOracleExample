@@ -1,0 +1,3 @@
+﻿BEGIN
+	-- Some SQL
+END;
